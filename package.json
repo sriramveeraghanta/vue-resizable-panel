@@ -1,0 +1,27 @@
+{
+  "name": "vue-resizable-panel",
+  "version": "0.0.1",
+  "description": "A resiable split panels",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriramveeraghanta/vue-resizable-panel.git"
+  },
+  "keywords": [
+    "vue",
+    "split",
+    "panel",
+    "resizable",
+    "panels",
+    "vue-resizable-panel"
+  ],
+  "author": "sriram veeraghanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriramveeraghanta/vue-resizable-panel/issues"
+  },
+  "homepage": "https://github.com/sriramveeraghanta/vue-resizable-panel#readme"
+}
