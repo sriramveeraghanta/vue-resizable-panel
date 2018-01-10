@@ -1,8 +1,3 @@
-import Vue from 'vue'
-import App from './App.vue'
+import VueResizablePanel from './components/App.vue'
 
-const app = new Vue({
-  el: '#app',
-  template: '<App/>',
-  components: { App }
-})
+export default VueResizablePanel
